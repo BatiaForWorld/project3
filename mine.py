@@ -1,5 +1,4 @@
-def bar():
-    pass
-
 def foo():
+    pass
+def bar():
     pass
